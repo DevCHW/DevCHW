@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello!&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi ~ I am HyunWoo,Choi :)&fontAlign=80&fontAlignY=40&color=gradient)
 ### SNS
 <a href="https://sandcastle.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-white?style=flat-square&logo=Tistory&logoColor=black"/></a>
 <a href="https://www.instagram.com/c_hwoooo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-pink?style=flat-square&logo=Instagram&logoColor=white"/></a>
