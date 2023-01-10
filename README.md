@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi ~ I am HyunWoo,Choi :)&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=HyunWoo's%20GitHub&fontSize=60&animation=fadeIn&fontAlignY=38&color=gradient&desc=Welcome%20to%20my%20profile)
 ### SNS
 <a href="https://sandcastle.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-white?style=flat-square&logo=Tistory&logoColor=black"/></a>
 <a href="https://www.instagram.com/c_hwoooo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-pink?style=flat-square&logo=Instagram&logoColor=white"/></a>
@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/jQuery-red?style=flat-square&logo=jQuery&logoColor=white"/>
 <img src="https://img.shields.io/badge/AJAX -black?style=flat-square&logo=AJAX &logoColor=white"/>
 
-**TOOL**
+**Tools**
 <br>
 <img src="https://img.shields.io/badge/STS 3.9.12-purple?style=flat-square&logo=STS&logoColor=white"/>
 <img src="https://img.shields.io/badge/eXERD-brightgreen?style=flat-square&logo=eXERD&logoColor=white"/>
