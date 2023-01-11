@@ -23,6 +23,10 @@
 <img src="https://img.shields.io/badge/jQuery-red?style=flat-square&logo=jQuery&logoColor=white"/>
 <img src="https://img.shields.io/badge/AJAX -black?style=flat-square&logo=AJAX &logoColor=white"/>
 
+**DataBase**
+<br>
+<img src="https://img.shields.io/badge/Oracle-00599C?style=flat-square&logo=Oracle&logoColor=white"/>
+
 **Tools**
 <br>
 <img src="https://img.shields.io/badge/STS 3.9.12-purple?style=flat-square&logo=STS&logoColor=white"/>
