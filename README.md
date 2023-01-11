@@ -25,7 +25,7 @@
 
 **DataBase**
 <br>
-<img src="https://img.shields.io/badge/Oracle-00599C?style=flat-square&logo=Oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-red?style=flat-square&logo=Oracle&logoColor=white"/>
 
 **Tools**
 <br>
