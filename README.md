@@ -35,6 +35,6 @@
 <img src="https://img.shields.io/badge/SqlDeveloper-9cf?style=flat-square&logo=SqlDeveloper &logoColor=white"/>
 <img src="https://img.shields.io/badge/gitHub-blueviolet?style=flat-square&logo=gitHub&logoColor=white"/>
 
-<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevCHW&show_icons=true&theme=radical)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevCHW&show_icons=true&theme=dark)
