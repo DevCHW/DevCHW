@@ -36,5 +36,4 @@
 <img src="https://img.shields.io/badge/gitHub-blueviolet?style=flat-square&logo=gitHub&logoColor=white"/>
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevCHW&show_icons=true&theme=dark)
+![DevCHW's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevCHW&show_icons=true&theme=dark)
