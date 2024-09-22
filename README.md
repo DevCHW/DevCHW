@@ -6,11 +6,12 @@
 </br>
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
 </br>
-![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![](https://img.shields.io/badge/Amaozon_S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=AmazonEC2&logoColor=white) ![](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazons3&logoColor=white) ![](https://img.shields.io/badge/AWS_RDS-527FFF?style=flat&logo=AmazonRDS&logoColor=white)
 </br>
 ![](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white)
 </br>
-![](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white) ![](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white) ![](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) ![](https://img.shields.io/badge/Slack-4A15AB?style=flat&logo=slack&logoColor=white)
+![](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white) ![](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white) ![](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) ![](https://img.shields.io/badge/jira-0052CC?style=flat&logo=Jira&logoColor=white) ![](https://img.shields.io/badge/Slack-4A15AB?style=flat&logo=slack&logoColor=white) 
+
 
 </br>
 
