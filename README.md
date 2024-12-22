@@ -3,7 +3,7 @@
 ## 🛠 Skils
 
 ### Backend
-<img src="https://img.shields.io/badge/Java-FF6600?&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-FF6600?&logo=buymeacoffee&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?&logo=kotlin&logoColor=white"/>
 
 <br/>
@@ -45,7 +45,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevCHW&hide=html,VimSnippet&exclude_repo=DevCHW.github.io,Gukmo,Dream&theme=grate-gatsby)](https://github.com/DevCHW/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevCHW&hide=html,Vim%20Snippet&exclude_repo=DevCHW.github.io,Gukmo,Dream&theme=grate-gatsby)](https://github.com/DevCHW/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevCHW&count_bg=%23070707&title_bg=%23686166&icon=github.svg&icon_color=%23E7E7E7&title=방문자&edge_flat=false)](https://hits.seeyoufarm.com)
 
