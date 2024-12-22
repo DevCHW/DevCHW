@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Redis-FF4438?&logo=Redis&logoColor=white"/>
 
 
-### Devops
+### DevOps
 <img src="https://img.shields.io/badge/docker-2496ED?&logo=docker&logoColor=white"/>
 
 <br/>
