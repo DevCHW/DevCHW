@@ -40,7 +40,7 @@
 <ul>
   <li>Email : ggoma003@naver.com</li>
   <li>Blog : <a href="https://sandcastle.tistory.com">https://sandcastle.tistory.com</a></li>
-  <li>LinkedIn : <a href="https://www.linkedin.com/in/hyunwoo-choi-02b799261/">https://www.linkedin.com/in/hyunwoo-choi-02b799261</a></li>
+  <li>LinkedIn : <a href="https://www.linkedin.com/in/devchw/">https://www.linkedin.com/in/devchw/</a></li>
 </ul>
 
 ---
