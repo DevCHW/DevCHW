@@ -13,12 +13,12 @@
 <img src="https://img.shields.io/badge/Spring%20Data%20JPA-339933?style=flat-square&logo=Hibernate&logoColor=white"/>
 
 <br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-FF4438?&logo=Redis&logoColor=white"/>
 
 
 ### DevOps
-<img src="https://img.shields.io/badge/docker-2496ED?&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?&logo=Docker&logoColor=white"/>
 
 <br/>
 <img src="https://img.shields.io/badge/Github Actions-181717?&logo=githubactions&logoColor=white"/>
