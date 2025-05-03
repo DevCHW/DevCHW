@@ -9,8 +9,8 @@
 <br/>
 <img src="https://img.shields.io/badge/Spring-339933?&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Boot-339933?&logo=Spring%20Boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Security-339933?&logo=Spring Security&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring%20Security-339933?&logo=Spring%20Security&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Data%20JPA-339933?style=flat-square&logo=Hibernate&logoColor=white"/>
 
 <br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?&logo=mysql&logoColor=white"/>
