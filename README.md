@@ -31,7 +31,7 @@
 ---
 ### 🤾‍♂ Career
 <ul>
-  <li> <a href="https://www.windly.cc"> Windly Team </a> Backend Engineer <sub>(2025.06~)</sub> </li>
+  <li> <a href="https://www.windly.cc"> Windly </a> Backend Engineer <sub>(2025.06~)</sub> </li>
   <li> <a href="https://gameround.co"> G.Round </a> Backend Engineer <sub>(2023.11~2025.02)</sub> </li>
 </ul>
 
