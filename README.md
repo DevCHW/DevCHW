@@ -45,7 +45,6 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevCHW&hide=html,Vim%20Snippet&exclude_repo=DevCHW.github.io,Gukmo,Dream&theme=grate-gatsby)](https://github.com/DevCHW/github-readme-stats)
 </div>
 
 <picture>
